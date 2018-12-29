@@ -1,14 +1,11 @@
 # flutterqrcodefilereader
 
-nb program！
+这是一个必须有的项目|this is a necessary program for flutter！
 
-## Getting Started
+## 项目日记
 
-This project is a starting point for a Dart
-[package](https://flutter.io/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+'''
+2018.12.29 
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+新建了项目，仔细思考了下需要开始做的东西。按照现有的方案重写整个二维码读取包是不现实的。通过methodinvoke去分别调用ios和android package柑橘会靠谱一些。
+'''
